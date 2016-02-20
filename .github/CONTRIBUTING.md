@@ -22,7 +22,7 @@ package for multiple versions of RHEL/CentOS that you try to test all the
 versions.  Some issues may not be present on all OS versions due to differences
 in libraries and init systems.
 
-[1]: https://github.com/iuscommunity/wishlist/issues
+[1]: https://github.com/iuscommunity/wishlist/issues/new
 [2]: https://fedoraproject.org/wiki/EPEL
 [3]: https://ius.io/FAQs/#should-i-use-ius-so-i-can-pass-pci-or-other-security-audits
 [4]: https://access.redhat.com/security/updates/backporting
