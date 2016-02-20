@@ -12,7 +12,7 @@ specific feature that is only available in newer versions of the software.  A
 bad reason would be to [pass a security audit][3], because Red Hat actively
 [backports security fixes][4] to their stock packages.
 
-- What version of RHEL/CentOS would you like to use it on?  Note that We are no
+- What version of RHEL/CentOS would you like to use it on?  Note that we are no
 longer accepting requests for RHEL/CentOS 5.
 
 - Do you agree to test the new package to ensure that it works as expected?  We
