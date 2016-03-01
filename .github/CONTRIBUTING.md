@@ -1,7 +1,8 @@
 # Wishlist Request Instructions
 
-To request a new package for IUS, [create an issue][1] in this repo.  Please
-include the following information in your request.
+To request a new package for IUS, [create an issue][1] in this repository.  A
+template will be provided; please make sure to complete all requested
+information, as described below.
 
 - What package do you want?  Remember that our primary goal is to provide newer
 versions of packages from the base repositories.  If the package doesn't
