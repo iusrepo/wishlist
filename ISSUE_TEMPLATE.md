@@ -9,8 +9,7 @@ useful to me.  RHEL 6 only has foobar 1.7.8, and RHEL 7 only has foobar 1.8.1.
 
 ### OS versions
 
-- [ ] RHEL/CentOS 6
-- [ ] RHEL/CentOS 7
+I would like this package for both RHEL 6 and 7.
 
 ### Testing
 
