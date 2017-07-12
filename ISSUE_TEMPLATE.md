@@ -1,4 +1,4 @@
-### What package do you want?
+### What new package do you want?
 
 foobar 2.0.x
 
