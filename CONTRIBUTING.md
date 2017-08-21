@@ -19,15 +19,9 @@ specific feature that is only available in newer versions of the software.  A
 bad reason would be to [pass a security audit][pci], because Red Hat actively
 [backports security fixes][backporting] to their stock packages.
 
-- What version of RHEL/CentOS would you like to use it on?  Note that we are no
-longer accepting requests for RHEL/CentOS 5.
-
 - Do you agree to test the new package to ensure that it works as expected?  We
 don't have any minimum requirements for testing, so use your best judgement and
-be as thorough as you feel is appropriate.  We do ask that if we build the
-package for multiple versions of RHEL/CentOS that you try to test all the
-versions.  Some issues may not be present on all OS versions due to differences
-in libraries and init systems.
+be as thorough as you feel is appropriate.
 
 [issues]: https://github.com/iuscommunity/wishlist/issues?q=is%3Aissue
 [iuscommunity-pkg]: https://github.com/iuscommunity-pkg
