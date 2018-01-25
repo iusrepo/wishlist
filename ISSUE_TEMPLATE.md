@@ -9,4 +9,6 @@ useful to me, and RHEL 7 only has foobar 1.8.1.
 
 ### Testing
 
-I agree to test the new package to ensure that it works as expected.
+I agree to test the new package to ensure that it works as expected.  Once I am
+satisfied with the results of my testing I will comment on this issue with the
+word "STABLE" to get it promoted to the stable repos.

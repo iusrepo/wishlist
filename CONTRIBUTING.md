@@ -21,7 +21,9 @@ bad reason would be to [pass a security audit][pci], because Red Hat actively
 
 - Do you agree to test the new package to ensure that it works as expected?  We
 don't have any minimum requirements for testing, so use your best judgement and
-be as thorough as you feel is appropriate.
+be as thorough as you feel is appropriate.  Once you feel the package is ready
+and would like to see it promoted to the stable repos, comment on the issue
+with the word "STABLE".
 
 [issues]: https://github.com/iuscommunity/wishlist/issues?q=is%3Aissue
 [iuscommunity-pkg]: https://github.com/iuscommunity-pkg
