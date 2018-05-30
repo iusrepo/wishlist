@@ -1,3 +1,10 @@
+<!--
+Do you need to report an issue or request an update for an existing package?
+If so, you're in the wrong place.  Find the corresponding package source repo
+in the iuscommunity-pkg organization (https://github.com/iuscommunity-pkg) and
+report an issue there instead.
+-->
+
 ### What new package do you want?
 
 foobar 2.0.x

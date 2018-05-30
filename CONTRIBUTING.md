@@ -3,8 +3,9 @@
 This wishlist is used to request new packages for the IUS repository.  Before
 creating a request, [check and see if one already exists][issues].  You can
 also check in our [iuscommunity-pkg][iuscommunity-pkg] organization to see if a
-repository already exists for that package.  If you need to report an issue for
-an existing package, file an issue on that repository, not here.
+repository already exists for that package.  **If you need to report an issue
+or request an update for an existing package, file an issue on that repository,
+not here.**
 
 After verifying your request is actually new, [create an issue][create] in this
 repository.  A template will be provided; please make sure to complete all
