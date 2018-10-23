@@ -7,12 +7,14 @@ report an issue there instead.
 
 ### What new package do you want?
 
+<!-- Only one package per issue. -->
 <!-- The below text is an EXAMPLE, modify it for your purposes. -->
 
 foobar 2.0.x
 
 ### Why?
 
+<!-- Give specific reasons why packaging this would be beneficial. -->
 <!-- The below text is an EXAMPLE, modify it for your purposes. -->
 
 In foobar 2.0.0, the `--whiz-bang` flag was added.  This feature would be very
