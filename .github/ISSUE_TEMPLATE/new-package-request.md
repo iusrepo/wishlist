@@ -14,7 +14,7 @@ Do you need to report an issue or request an update for an existing package?  If
 **What new package do you want?**
 
 <!--
-IUS is not a generic RPM repository.  It has the limited scope of providing newer versions of packages already in RHEL.  If the sofware you want is NOT presently available in RHEL, then it is eligible to be added to the EPEL repository, and is out of scope for IUS.
+IUS is not a generic RPM repository.  It has the limited scope of providing newer versions of packages already in RHEL.  If the software you want is NOT presently available in RHEL, then it is eligible to be added to the EPEL repository, and is out of scope for IUS.
 
 Only one package per issue.
 
