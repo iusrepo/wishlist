@@ -2,10 +2,10 @@
 
 This wishlist is used to request new packages for the IUS repository.  Before
 creating a request, [check and see if one already exists][issues].  You can
-also check in our [iuscommunity-pkg][iuscommunity-pkg] organization to see if a
-repository already exists for that package.  **If you need to report an issue
-or request an update for an existing package, file an issue on that repository,
-not here.**
+also check in our [iusrepo][iusrepo] organization to see if a repository
+already exists for that package.  **If you need to report an issue or request
+an update for an existing package, file an issue on that repository, not
+here.**
 
 After verifying your request is actually new, [create an issue][create] in this
 repository.  A template will be provided; please make sure to complete all
@@ -23,12 +23,12 @@ bad reason would be to [pass a security audit][pci], because Red Hat actively
 - Do you agree to test the new package to ensure that it works as expected?  We
 don't have any minimum requirements for testing, so use your best judgement and
 be as thorough as you feel is appropriate.  Once you feel the package is ready
-and would like to see it promoted to the stable repos, comment on the issue
+and would like to see it promoted to the main repository, comment on the issue
 with the word "STABLE".
 
-[issues]: https://github.com/iuscommunity/wishlist/issues?q=is%3Aissue
-[iuscommunity-pkg]: https://github.com/iuscommunity-pkg
-[create]: https://github.com/iuscommunity/wishlist/issues/new
+[issues]: https://github.com/iusrepo/wishlist/issues
+[iusrepo]: https://github.com/iusrepo
+[create]: https://github.com/iusrepo/wishlist/issues/new/choose
 [epel]: https://fedoraproject.org/wiki/EPEL
 [pci]: https://ius.io/FAQs/#should-i-use-ius-so-i-can-pass-pci-or-other-security-audits
 [backporting]: https://access.redhat.com/security/updates/backporting
